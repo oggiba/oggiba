@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![oggiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oggiba&show_icons=true&theme=transparent)
-![oggiba's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oggibaf&layout=compact&theme=transparent)
+![oggiba's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oggiba&layout=compact&theme=transparent)
 <!--
 **oggiba/oggiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
